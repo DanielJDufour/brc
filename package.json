@@ -1,6 +1,6 @@
 {
   "name": "fast-brc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert Flat RGBA Array of Pixel Values to 3-Dimensional Array by Band, Row, then Column",
   "main": "fast-brc.js",
   "scripts": {
