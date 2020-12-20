@@ -1,0 +1,32 @@
+{
+  "name": "fast-brc",
+  "version": "0.0.0",
+  "description": "Convert Flat RGBA Array of Pixel Values to 3-Dimensional Array by Band, Row, then Column",
+  "main": "fast-brc.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/fast-brc.git"
+  },
+  "keywords": [
+    "band",
+    "brc",
+    "column",
+    "data",
+    "image",
+    "pixels",
+    "reshape",
+    "row"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/fast-brc/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/fast-brc#readme",
+  "devDependencies": {
+    "get-depth": "0.0.0"
+  }
+}
